@@ -6,6 +6,6 @@ Saut: Barre espace
 Retour menu: Echap
 
 -----Contexte-----
-  Vous incarnez une adepte martiale qui termine son entrainement auprès des mines-combattants locaux.
+  Vous incarnez une adepte martiale qui termine son entrainement auprès des moines-combattants locaux.
 Pour valider sa formation, elle doit parcourir plusieurs plans lié aux éléments et récupérer divers parchemins
 traitant de techniques de combats et autres Kata, chacun étant influencés par un élément.
