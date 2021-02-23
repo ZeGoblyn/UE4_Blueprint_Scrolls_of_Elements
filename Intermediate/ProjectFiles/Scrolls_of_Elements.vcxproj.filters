@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Scrolls_of_Elements.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{62663637-C91E-4202-B30B-2ECE1E11D6AA}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Scrolls_of_Elements.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Scrolls_of_ElementsEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.gitignore" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{CC9B7CFA-D16D-4660-9AEC-AD88A5C18D9C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Scrolls_of_Elements">
+      <UniqueIdentifier>{A971CF85-D962-48F2-98CE-5F677E334C9E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Scrolls_of_Elements\Scrolls_of_Elements.Build.cs">
+      <Filter>Source\Scrolls_of_Elements</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Scrolls_of_Elements\Scrolls_of_Elements.cpp">
+      <Filter>Source\Scrolls_of_Elements</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Scrolls_of_Elements\Scrolls_of_Elements.h">
+      <Filter>Source\Scrolls_of_Elements</Filter>
+    </ClInclude>
+    <Filter Include="Source\Scrolls_of_Elements\Private">
+      <UniqueIdentifier>{2027DDE8-5DCA-408B-B12A-272441EDDE74}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Scrolls_of_Elements\Private\CPP_AirDeadZone.cpp">
+      <Filter>Source\Scrolls_of_Elements\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Scrolls_of_Elements\Private\CPP_CharacterMovements.cpp">
+      <Filter>Source\Scrolls_of_Elements\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\Scrolls_of_Elements\Public">
+      <UniqueIdentifier>{6B46878B-67D4-4B05-87EF-126E445AAA47}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\Scrolls_of_Elements\Public\CPP_AirDeadZone.h">
+      <Filter>Source\Scrolls_of_Elements\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Scrolls_of_Elements\Public\CPP_CharacterMovements.h">
+      <Filter>Source\Scrolls_of_Elements\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

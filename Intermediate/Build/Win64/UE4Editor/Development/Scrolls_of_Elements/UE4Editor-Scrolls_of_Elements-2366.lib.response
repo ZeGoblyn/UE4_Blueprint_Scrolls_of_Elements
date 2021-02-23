@@ -1,0 +1,18 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Scrolls_of_Elements-2366.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Joffrey\Documents\Unreal Projects\Scrolls_of_Elements\Intermediate\Build\Win64\Scrolls_of_ElementsEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\Joffrey\Documents\Unreal Projects\Scrolls_of_Elements\Intermediate\Build\Win64\UE4Editor\Development\Scrolls_of_Elements\CPP_AirDeadZone.cpp.obj"
+"C:\Users\Joffrey\Documents\Unreal Projects\Scrolls_of_Elements\Intermediate\Build\Win64\UE4Editor\Development\Scrolls_of_Elements\CPP_CharacterMovements.cpp.obj"
+"C:\Users\Joffrey\Documents\Unreal Projects\Scrolls_of_Elements\Intermediate\Build\Win64\UE4Editor\Development\Scrolls_of_Elements\Scrolls_of_Elements.cpp.obj"
+"C:\Users\Joffrey\Documents\Unreal Projects\Scrolls_of_Elements\Intermediate\Build\Win64\UE4Editor\Development\Scrolls_of_Elements\CPP_AirDeadZone.gen.cpp.obj"
+"C:\Users\Joffrey\Documents\Unreal Projects\Scrolls_of_Elements\Intermediate\Build\Win64\UE4Editor\Development\Scrolls_of_Elements\CPP_CharacterMovements.gen.cpp.obj"
+"C:\Users\Joffrey\Documents\Unreal Projects\Scrolls_of_Elements\Intermediate\Build\Win64\UE4Editor\Development\Scrolls_of_Elements\Scrolls_of_Elements.init.gen.cpp.obj"
+"C:\Users\Joffrey\Documents\Unreal Projects\Scrolls_of_Elements\Intermediate\Build\Win64\UE4Editor\Development\Scrolls_of_Elements\Default.rc2.res"
+/OUT:"C:\Users\Joffrey\Documents\Unreal Projects\Scrolls_of_Elements\Intermediate\Build\Win64\UE4Editor\Development\Scrolls_of_Elements\UE4Editor-Scrolls_of_Elements-2366.lib"
+/INCLUDE:IMPLEMENT_MODULE_Scrolls_of_Elements

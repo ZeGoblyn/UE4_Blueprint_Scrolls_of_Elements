@@ -1,0 +1,7 @@
+C:\Users\Joffrey\Documents\Unreal Projects\Scrolls_of_Elements\Intermediate\Build\Win64\UE4Editor\Development\Scrolls_of_Elements\Definitions.Scrolls_of_Elements.h
+C:\Users\Joffrey\Documents\Unreal Projects\Scrolls_of_Elements\Source\Scrolls_of_Elements\Public\CPP_CharacterMovements.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+C:\Users\Joffrey\Documents\Unreal Projects\Scrolls_of_Elements\Intermediate\Build\Win64\UE4Editor\Inc\Scrolls_of_Elements\CPP_CharacterMovements.generated.h

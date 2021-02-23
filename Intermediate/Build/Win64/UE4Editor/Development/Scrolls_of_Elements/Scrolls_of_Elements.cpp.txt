@@ -1,0 +1,2 @@
+C:\Users\Joffrey\Documents\Unreal Projects\Scrolls_of_Elements\Intermediate\Build\Win64\UE4Editor\Development\Scrolls_of_Elements\Definitions.Scrolls_of_Elements.h
+C:\Users\Joffrey\Documents\Unreal Projects\Scrolls_of_Elements\Source\Scrolls_of_Elements\Scrolls_of_Elements.h

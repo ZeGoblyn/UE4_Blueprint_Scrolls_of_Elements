@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Scrolls_of_Elements",
+			"Path": "C:\\Users\\Joffrey\\Documents\\Unreal Projects\\Scrolls_of_Elements\\Source\\Scrolls_of_Elements.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Scrolls_of_ElementsEditor",
+			"Path": "C:\\Users\\Joffrey\\Documents\\Unreal Projects\\Scrolls_of_Elements\\Source\\Scrolls_of_ElementsEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
